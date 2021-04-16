@@ -179,8 +179,6 @@ export const InfoFunc = styled.section`
   .InfoBoxIcon {
     width: 40px;
     height: 40px;
-    border-radius: 5px;
-    background-color: #10a372;
   }
 
   .InfoFuncBox .InfoBoxText p {
@@ -265,7 +263,7 @@ export const InfoPlus = styled.section`
 export const PlanosBG = styled.div`
   background-color: #fff;
   font-family: "Poppins", "Sans-Serif";
-  /*border-radius: 2000px 0 0 0;*/
+  border-radius: 500px 0 0 0;
   background-size: 100% auto;
   width: 1440px;
   margin: 0 auto;
