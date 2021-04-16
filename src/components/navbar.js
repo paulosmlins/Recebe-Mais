@@ -6,7 +6,7 @@ import { ButtonOutline, ButtonGreenNav, NavLink } from "../styles/buttom";
 const Navbarcomp = () => {
   return (
     <Navbar>
-      <LogoRM />
+      <LogoRM alt="Logo" />
       <div className="navMenu">
         <Nav>
           <NavLink>Planos</NavLink>

@@ -10,15 +10,21 @@ export const HeaderBG = styled.div`
   background-size: 100% auto;
   width: 1440px;
   margin: 0 auto;
-  height: 100vh;
+  height: 793px;
 `;
 export const LogoRM = styled.img.attrs((props) => ({
-  src: props.Img || logo,
+  src: logo,
 }))`
-  width: 9.5rem;
+  height: 40px;
 `;
 export const CheckVerde = styled.img.attrs((props) => ({
-  src: props.Img || checkVerde,
+  src: checkVerde,
 }))`
   width: 1.4rem;
+`;
+export const InfoProsIconsMax = styled.img.attrs((props) => ({
+  src: props.Img,
+}))`
+  width: 3rem;
+  height: 3rem;
 `;

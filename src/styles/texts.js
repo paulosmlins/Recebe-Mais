@@ -25,3 +25,22 @@ export const InfoProductSpan = styled.span`
   color: #17cf81;
   margin: 0;
 `;
+export const InfoProsTitle = styled.h3`
+  font-family: "Poppins", "Sans-Serif";
+  font-weight: 600;
+  padding: 0;
+  font-size: 2.1875rem;
+  color: #041c43;
+`;
+export const InfoProsP = styled.h3`
+  font-family: "Nunito Sans", "Sans-Serif";
+  font-size: 1.25rem;
+  line-height: 1.9rem;
+  color: #576275;
+`;
+export const InfoProsItemP = styled.h3`
+  font-family: "Poppins", "Sans-Serif";
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #041c43;
+`;
