@@ -39,6 +39,19 @@ export const ButtonGreen = styled.button`
   font-weight: 800;
   box-shadow: 0.3rem 0.3rem 0.7rem #a2f6b9;
 `;
+export const ButtonBlue = styled.button`
+  background-color: #041c43;
+  padding: 17px 25px;
+  font-family: "Nunito Sans", "Sans-Serif";
+  color: #fff;
+  border: none;
+  width: 251px;
+  height: 60px;
+  border-radius: 0.4rem;
+  font-size: 1rem;
+  font-weight: 800;
+  box-shadow: 0.3rem 0.3rem 0.7rem #4f6993;
+`;
 export const NavLink = styled(Nav.Link)`
   font-family: "Nunito Sans", "Sans-Serif";
   font-size: 0.9rem;
