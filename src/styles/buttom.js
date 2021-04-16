@@ -11,9 +11,9 @@ export const ButtonOutline = styled.button`
   border-color: #041c43;
   border-radius: 0.4rem;
   font-size: 0.9rem;
-  font-weight: 700;
+  font-weight: 800;
 `;
-export const ButtonGreen = styled.button`
+export const ButtonGreenNav = styled.button`
   background-color: #17cf81;
   padding: 0rem 1.5rem;
   font-family: "Nunito Sans", "Sans-Serif";
@@ -21,9 +21,33 @@ export const ButtonGreen = styled.button`
   border: none;
   border-radius: 0.4rem;
   font-size: 0.9rem;
-  font-weight: 700;
+  font-weight: 800;
+  box-shadow: 0.3rem 0.3rem 0.7rem #a2f6b9;
+`;
+export const ButtonGreen = styled.button`
+  background-color: #17cf81;
+  padding: 1rem 2rem;
+  font-family: "Nunito Sans", "Sans-Serif";
+  color: #fff;
+  border: none;
+  border-radius: 0.4rem;
+  font-size: 0.9rem;
+  font-weight: 800;
   box-shadow: 0.3rem 0.3rem 0.7rem #a2f6b9;
 `;
 export const NavLink = styled(Nav.Link)`
+  font-family: "Nunito Sans", "Sans-Serif";
+  font-weight: 700;
+  color: #576275;
   margin: 0 0.7rem;
+`;
+export const ButtomSaberMais = styled.button`
+  background-color: transparent;
+  margin: 0 28px;
+  padding: 1rem 2rem;
+  font-family: "Nunito Sans", "Sans-Serif";
+  color: #041c43;
+  border: none;
+  font-size: 0.9rem;
+  font-weight: 800;
 `;

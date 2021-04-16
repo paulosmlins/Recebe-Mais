@@ -1,7 +1,7 @@
 import React from "react";
 import { LogoRM } from "../styles/images";
 import { Navbar, Nav } from "../styles/grid";
-import { ButtonOutline, ButtonGreen, NavLink } from "../styles/buttom";
+import { ButtonOutline, ButtonGreenNav, NavLink } from "../styles/buttom";
 
 const Navbarcomp = () => {
   return (
@@ -14,7 +14,7 @@ const Navbarcomp = () => {
           <NavLink>Dúvidas</NavLink>
           <NavLink>Contato</NavLink>
           <ButtonOutline>Login</ButtonOutline>
-          <ButtonGreen>Solicitar Demonstração</ButtonGreen>
+          <ButtonGreenNav>Solicitar Demonstração</ButtonGreenNav>
         </Nav>
       </div>
     </Navbar>
