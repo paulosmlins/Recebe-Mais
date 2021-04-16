@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Recebe-Mais/static/js/main.c910a059.chunk.js",
-    "main.js.map": "/Recebe-Mais/static/js/main.c910a059.chunk.js.map",
+    "main.js": "/Recebe-Mais/static/js/main.5b37a061.chunk.js",
+    "main.js.map": "/Recebe-Mais/static/js/main.5b37a061.chunk.js.map",
     "runtime-main.js": "/Recebe-Mais/static/js/runtime-main.4541b268.js",
     "runtime-main.js.map": "/Recebe-Mais/static/js/runtime-main.4541b268.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Recebe-Mais/static/css/2.4c97ca4f.chunk.css",
@@ -11,6 +11,13 @@
     "static/css/2.4c97ca4f.chunk.css.map": "/Recebe-Mais/static/css/2.4c97ca4f.chunk.css.map",
     "static/js/2.bca9f8c5.chunk.js.LICENSE.txt": "/Recebe-Mais/static/js/2.bca9f8c5.chunk.js.LICENSE.txt",
     "static/media/Group84.98b965b8.png": "/Recebe-Mais/static/media/Group84.98b965b8.png",
+    "static/media/ajustes-notas.70ff9367.svg": "/Recebe-Mais/static/media/ajustes-notas.70ff9367.svg",
+    "static/media/baixo-custo.485da796.svg": "/Recebe-Mais/static/media/baixo-custo.485da796.svg",
+    "static/media/baixo-valor.c648e4f4.svg": "/Recebe-Mais/static/media/baixo-valor.c648e4f4.svg",
+    "static/media/controles-simplificados.2c7c1b40.svg": "/Recebe-Mais/static/media/controles-simplificados.2c7c1b40.svg",
+    "static/media/conversao.4f98ce3f.svg": "/Recebe-Mais/static/media/conversao.4f98ce3f.svg",
+    "static/media/diversos-formatos-aceitos.0da00352.svg": "/Recebe-Mais/static/media/diversos-formatos-aceitos.0da00352.svg",
+    "static/media/gestao-facilitada.1bd98f71.svg": "/Recebe-Mais/static/media/gestao-facilitada.1bd98f71.svg",
     "static/media/icone-check-planos.b0bf8b2d.svg": "/Recebe-Mais/static/media/icone-check-planos.b0bf8b2d.svg",
     "static/media/icone-check-verde.e74c5877.svg": "/Recebe-Mais/static/media/icone-check-verde.e74c5877.svg",
     "static/media/icone-facebook.494655b4.svg": "/Recebe-Mais/static/media/icone-facebook.494655b4.svg",
@@ -20,13 +27,24 @@
     "static/media/icone-plano2.674140fc.svg": "/Recebe-Mais/static/media/icone-plano2.674140fc.svg",
     "static/media/icone-plano3.9c149f0e.svg": "/Recebe-Mais/static/media/icone-plano3.9c149f0e.svg",
     "static/media/logo-rm.d939285a.svg": "/Recebe-Mais/static/media/logo-rm.d939285a.svg",
+    "static/media/niveis.9193928c.svg": "/Recebe-Mais/static/media/niveis.9193928c.svg",
+    "static/media/pague-apenas.3628f69c.svg": "/Recebe-Mais/static/media/pague-apenas.3628f69c.svg",
+    "static/media/plataforma-tecnoloiga.733cac17.svg": "/Recebe-Mais/static/media/plataforma-tecnoloiga.733cac17.svg",
     "static/media/quadrado-espaco-icones.3ce74293.svg": "/Recebe-Mais/static/media/quadrado-espaco-icones.3ce74293.svg",
-    "static/media/simbolo-rm.6fd13fc4.svg": "/Recebe-Mais/static/media/simbolo-rm.6fd13fc4.svg"
+    "static/media/simbolo-rm.6fd13fc4.svg": "/Recebe-Mais/static/media/simbolo-rm.6fd13fc4.svg",
+    "static/media/todos-tipos-docs.dad6d325.svg": "/Recebe-Mais/static/media/todos-tipos-docs.dad6d325.svg",
+    "static/media/tomada-decisao.cd234c56.svg": "/Recebe-Mais/static/media/tomada-decisao.cd234c56.svg",
+    "static/media/totalmente-automatizado.90efa39a.svg": "/Recebe-Mais/static/media/totalmente-automatizado.90efa39a.svg",
+    "static/media/unificacao.71534d8f.svg": "/Recebe-Mais/static/media/unificacao.71534d8f.svg",
+    "static/media/validacoes-cruzadas.13dd3276.svg": "/Recebe-Mais/static/media/validacoes-cruzadas.13dd3276.svg",
+    "static/media/validacoes-notas-fiscais.81a23006.svg": "/Recebe-Mais/static/media/validacoes-notas-fiscais.81a23006.svg",
+    "static/media/visao-detalhes.b91c9956.svg": "/Recebe-Mais/static/media/visao-detalhes.b91c9956.svg",
+    "static/media/visualizacao-facil.5367f2f9.svg": "/Recebe-Mais/static/media/visualizacao-facil.5367f2f9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4541b268.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.bca9f8c5.chunk.js",
-    "static/js/main.c910a059.chunk.js"
+    "static/js/main.5b37a061.chunk.js"
   ]
 }
