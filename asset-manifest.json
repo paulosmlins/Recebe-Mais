@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.430fb6fa.chunk.js",
-    "main.js.map": "/static/js/main.430fb6fa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d64d7172.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d64d7172.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.51504e2c.chunk.js": "/static/js/2.51504e2c.chunk.js",
-    "static/js/2.51504e2c.chunk.js.map": "/static/js/2.51504e2c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/js/2.51504e2c.chunk.js.LICENSE.txt": "/static/js/2.51504e2c.chunk.js.LICENSE.txt",
-    "static/media/Group84.98b965b8.png": "/static/media/Group84.98b965b8.png",
-    "static/media/icone-check-verde.f3dcb776.svg": "/static/media/icone-check-verde.f3dcb776.svg",
-    "static/media/logo-rm.45811617.svg": "/static/media/logo-rm.45811617.svg"
+    "main.js": "/Recebe-Mais/static/js/main.430fb6fa.chunk.js",
+    "main.js.map": "/Recebe-Mais/static/js/main.430fb6fa.chunk.js.map",
+    "runtime-main.js": "/Recebe-Mais/static/js/runtime-main.4541b268.js",
+    "runtime-main.js.map": "/Recebe-Mais/static/js/runtime-main.4541b268.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Recebe-Mais/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.82d2cec5.chunk.js": "/Recebe-Mais/static/js/2.82d2cec5.chunk.js",
+    "static/js/2.82d2cec5.chunk.js.map": "/Recebe-Mais/static/js/2.82d2cec5.chunk.js.map",
+    "index.html": "/Recebe-Mais/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Recebe-Mais/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.82d2cec5.chunk.js.LICENSE.txt": "/Recebe-Mais/static/js/2.82d2cec5.chunk.js.LICENSE.txt",
+    "static/media/Group84.98b965b8.png": "/Recebe-Mais/static/media/Group84.98b965b8.png",
+    "static/media/icone-check-verde.f3dcb776.svg": "/Recebe-Mais/static/media/icone-check-verde.f3dcb776.svg",
+    "static/media/logo-rm.45811617.svg": "/Recebe-Mais/static/media/logo-rm.45811617.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d64d7172.js",
+    "static/js/runtime-main.4541b268.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.51504e2c.chunk.js",
+    "static/js/2.82d2cec5.chunk.js",
     "static/js/main.430fb6fa.chunk.js"
   ]
 }
