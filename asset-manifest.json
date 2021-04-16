@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.js": "/Recebe-Mais/static/js/main.430fb6fa.chunk.js",
-    "main.js.map": "/Recebe-Mais/static/js/main.430fb6fa.chunk.js.map",
+    "main.js": "/Recebe-Mais/static/js/main.c910a059.chunk.js",
+    "main.js.map": "/Recebe-Mais/static/js/main.c910a059.chunk.js.map",
     "runtime-main.js": "/Recebe-Mais/static/js/runtime-main.4541b268.js",
     "runtime-main.js.map": "/Recebe-Mais/static/js/runtime-main.4541b268.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Recebe-Mais/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.82d2cec5.chunk.js": "/Recebe-Mais/static/js/2.82d2cec5.chunk.js",
-    "static/js/2.82d2cec5.chunk.js.map": "/Recebe-Mais/static/js/2.82d2cec5.chunk.js.map",
+    "static/js/2.bca9f8c5.chunk.js": "/Recebe-Mais/static/js/2.bca9f8c5.chunk.js",
+    "static/js/2.bca9f8c5.chunk.js.map": "/Recebe-Mais/static/js/2.bca9f8c5.chunk.js.map",
     "index.html": "/Recebe-Mais/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Recebe-Mais/static/css/2.4c97ca4f.chunk.css.map",
-    "static/js/2.82d2cec5.chunk.js.LICENSE.txt": "/Recebe-Mais/static/js/2.82d2cec5.chunk.js.LICENSE.txt",
+    "static/js/2.bca9f8c5.chunk.js.LICENSE.txt": "/Recebe-Mais/static/js/2.bca9f8c5.chunk.js.LICENSE.txt",
     "static/media/Group84.98b965b8.png": "/Recebe-Mais/static/media/Group84.98b965b8.png",
-    "static/media/icone-check-verde.f3dcb776.svg": "/Recebe-Mais/static/media/icone-check-verde.f3dcb776.svg",
-    "static/media/logo-rm.45811617.svg": "/Recebe-Mais/static/media/logo-rm.45811617.svg"
+    "static/media/icone-check-planos.b0bf8b2d.svg": "/Recebe-Mais/static/media/icone-check-planos.b0bf8b2d.svg",
+    "static/media/icone-check-verde.e74c5877.svg": "/Recebe-Mais/static/media/icone-check-verde.e74c5877.svg",
+    "static/media/icone-facebook.494655b4.svg": "/Recebe-Mais/static/media/icone-facebook.494655b4.svg",
+    "static/media/icone-instagram.2b6be8c7.svg": "/Recebe-Mais/static/media/icone-instagram.2b6be8c7.svg",
+    "static/media/icone-linkedin.fb5ec826.svg": "/Recebe-Mais/static/media/icone-linkedin.fb5ec826.svg",
+    "static/media/icone-plano1.a87f2126.svg": "/Recebe-Mais/static/media/icone-plano1.a87f2126.svg",
+    "static/media/icone-plano2.674140fc.svg": "/Recebe-Mais/static/media/icone-plano2.674140fc.svg",
+    "static/media/icone-plano3.9c149f0e.svg": "/Recebe-Mais/static/media/icone-plano3.9c149f0e.svg",
+    "static/media/logo-rm.d939285a.svg": "/Recebe-Mais/static/media/logo-rm.d939285a.svg",
+    "static/media/quadrado-espaco-icones.3ce74293.svg": "/Recebe-Mais/static/media/quadrado-espaco-icones.3ce74293.svg",
+    "static/media/simbolo-rm.6fd13fc4.svg": "/Recebe-Mais/static/media/simbolo-rm.6fd13fc4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4541b268.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.82d2cec5.chunk.js",
-    "static/js/main.430fb6fa.chunk.js"
+    "static/js/2.bca9f8c5.chunk.js",
+    "static/js/main.c910a059.chunk.js"
   ]
 }
